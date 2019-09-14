@@ -1,8 +1,7 @@
 
 
-#main-doc
-.main-section
-
+#main-doc{}
+.main-section{}
 header{
     position: fixed;
     z-index: 0;
