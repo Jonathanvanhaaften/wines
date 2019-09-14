@@ -1,7 +1,31 @@
 
 
-#main-doc{}
-.main-section{}
+#main-doc{
+    /* display: block; */
+    margin-left: 25%;
+    color: blue;
+    background-color: black;
+    
+
+
+}
+.hhh{
+
+    left: 25%;
+}
+    
+section {
+
+    left: 25%;
+}
+
+
+
+.main-section{
+   display: inline;
+}
+
+
 header{
     position: fixed;
     z-index: 0;
