@@ -3,8 +3,7 @@
 #main-doc{
     /* display: block; */
     margin-left: 25%;
-    color: blue;
-    background-color: black;
+
     
 
 
@@ -16,9 +15,9 @@
     
 section {
 
-    left: 25%;
+    display: block;
+   
 }
-
 
 
 .main-section{
@@ -26,7 +25,7 @@ section {
 }
 
 
-header{
+#nav-header{
     position: fixed;
     z-index: 0;
     background: #333333;
@@ -54,10 +53,16 @@ nav a {
     text-decoration: none;
     color: white;
     display: block;
-   padding: 15px;
+   padding-top: 20px;
+   padding-left: 0%;
    
   
 }
+li{
+
+    text-align: center;
+   
+}
 nav a:hover {
     color: #444444;
-}
+ } 
